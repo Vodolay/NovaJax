@@ -9,3 +9,4 @@ The mnist.ipynb notebook builds a simple MNIST classifier in JAX. Here is a Goog
 The rng.ipynb explains Pseudo Random Number Generation in Jax. Here is a Google Colab [version](https://drive.google.com/file/d/1gXnED5oyTWUazb_z4oJroB54vngdZ6mn/view?usp=sharing).
 
 
+
