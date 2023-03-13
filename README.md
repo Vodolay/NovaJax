@@ -4,7 +4,7 @@ This [online book](https://d2l.ai/) is quickly becoming the standard text for De
 
 ## Notebooks available
 
-The mnist.ipynb notebook builds a simple MNIST classifier in JAX. Here is a Google Colab [version](https://drive.google.com/file/d/1k1MPeOXrm8UIgf5tRydGajUhrA9kQ9KP/view?usp=sharing). And for a classification over 99.5% please consult the Jiucheng branch.
+The mnist.ipynb notebook builds a simple MNIST classifier in JAX. Here is a Google Colab [version](https://colab.research.google.com/drive/1lppVXCPhhmSJeZeqhZWg2jC083_L4xXq?usp=sharing). And for a classification over 99.5% please consult the Jiucheng branch.
 
 The rng.ipynb notebook explains Pseudo Random Number Generation in JAX. Here is a Google Colab [version](https://drive.google.com/file/d/1gXnED5oyTWUazb_z4oJroB54vngdZ6mn/view?usp=sharing).
 
