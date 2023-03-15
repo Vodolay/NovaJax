@@ -3,7 +3,7 @@ This repo contains code for the Nova Science coding group.
 This [online book](https://d2l.ai/) is quickly becoming the standard text 
 for Deep Learning.
 
-And here is [repo}(https://github.com/n2cholas/awesome-jax) with list of projects in JAX. 
+And here is [repo](https://github.com/n2cholas/awesome-jax) with list of projects in JAX. 
 
 ## Notebooks available
 
