@@ -1,4 +1,4 @@
-This folder contains code realted to differential equations.
+This folder contains code related to differential equations.
 
 ## Notebooks available
 
