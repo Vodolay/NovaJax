@@ -13,3 +13,4 @@ The rng.ipynb notebook explains Pseudo Random Number Generation in JAX. Here is 
 
 The autodiff.ipynb looks of examples of how autodiff is used in JAX. Here is a Google Colab [version](https://colab.research.google.com/drive/1ITvjHj_2ykypuAWumTIAwBO28dZ-tUij?usp=sharing).
 
+The pytrees.ipynb looks at structure and utilities for pytrees. Here is a Google Colab [version](https://colab.research.google.com/drive/1PuSNaXscZC7joS4cxl6IqWg6jsNOdWMg?usp=sharing). 
