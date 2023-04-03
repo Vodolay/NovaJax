@@ -5,9 +5,14 @@ for Deep Learning.
 
 And here is [repo](https://github.com/n2cholas/awesome-jax) with list of projects in JAX. 
 
-## Notebooks available
+## Model notebooks available
 
-The mnist.ipynb notebook builds a simple MNIST classifier in JAX. Here is a Google Colab [version](https://drive.google.com/file/d/1BC1wEJzWNIVZipLcmEBGOozb5aQ0uXHN/view?usp=sharing). And for a classification over 99.5% please consult the Jiucheng branch.
+The mnist.ipynb notebook builds a simple MNIST classifier. Here is a Google Colab [version](https://drive.google.com/file/d/1BC1wEJzWNIVZipLcmEBGOozb5aQ0uXHN/view?usp=sharing). And for a classification over 99.5% please consult the Jiucheng branch.
+
+The vae_mnist.ipynb notebook builds a very simple Variational Autoencoder for the MNIST dataset. 
+Here is a Colab [version](https://drive.google.com/file/d/11Qh29nHsXIM_TXJy-E1syoB2hUjyzfUC/view?usp=sharing). And here is a very readable elementary [introduction](https://www.jeremyjordan.me/variational-autoencoders/) to VAE.
+
+## JAX idiosyncrasies notebooks available
 
 The rng.ipynb notebook explains Pseudo Random Number Generation in JAX. Here is a Google Colab [version](https://drive.google.com/file/d/1gXnED5oyTWUazb_z4oJroB54vngdZ6mn/view?usp=sharing).
 
