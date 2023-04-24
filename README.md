@@ -12,6 +12,8 @@ The mnist.ipynb notebook builds a simple MNIST classifier. Here is a Google Cola
 The vae_mnist.ipynb notebook builds a very simple Variational Autoencoder for the MNIST dataset. 
 Here is a Colab [version](https://drive.google.com/file/d/11Qh29nHsXIM_TXJy-E1syoB2hUjyzfUC/view?usp=sharing). And here is a very readable elementary [introduction](https://www.jeremyjordan.me/variational-autoencoders/) to VAE.
 
+The ppo.ipynb notebook trains an agent to control a cart-pole with reinforcement learning. Here is a Colab [version](https://drive.google.com/file/d/1LLt9nWuoFcJKEFpNYtUrYFsGF1u5UKMS/view?usp=sharing). This blog has a simple [introduction](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b) to the PPO algorithm. The notebook is an adaptation of a notebook from this [blog](https://chrislu.page/blog/meta-disco/) which also provides evidence for the extereme speedups and new opportunities afforded by using JAX end-to-end in reinforcement learning.
+
 ## JAX idiosyncrasies notebooks available
 
 The rng.ipynb notebook explains Pseudo Random Number Generation in JAX. Here is a Google Colab [version](https://drive.google.com/file/d/1gXnED5oyTWUazb_z4oJroB54vngdZ6mn/view?usp=sharing).
