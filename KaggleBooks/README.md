@@ -1,2 +1,2 @@
-This folder contains Kaggle notebooks for several competiotions.
+This folder contains Kaggle notebooks for several competitions.
 
